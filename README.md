@@ -52,7 +52,7 @@ Create a way to censor words featured in the "censored words list" that appear i
 
 Example:
 
-Input: <pre>{"moew", "woof"} and "I have a cat named Meow and a dog name Woof. I love the dog a lot. He is larger than a small horse."</pre>
+Input: <pre>{"meow", "woof"} and "I have a cat named Meow and a dog name Woof. I love the dog a lot. He is larger than a small horse."</pre>
 Output: <pre>**"I have a cat named M$$w and a dog name W$$f. I love the dog a lot. He is larger than a small horse."**</pre>
 
 #### Part C)
