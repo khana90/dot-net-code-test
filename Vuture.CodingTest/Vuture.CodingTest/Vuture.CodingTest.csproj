@@ -7,8 +7,8 @@
     <ProjectGuid>{ABFC5709-B3A0-42A5-AE39-36046155E18C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Spafax.CodingTest</RootNamespace>
-    <AssemblyName>Spafax.CodingTest</AssemblyName>
+    <RootNamespace>Vuture.CodingTest</RootNamespace>
+    <AssemblyName>Vuture.CodingTest</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
